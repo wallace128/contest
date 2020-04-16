@@ -1,0 +1,23 @@
+Contest website. $5 entry, winner gets 80% of the winnings plus $100 provided by contest company, upload images of projects.
+
+Have different contest categories that they can enter.
+
+They can see other submissions after uploading they go to that competitions page.
+
+Voting counter.
+
+Time until closes, clock ticking down until April 20th.
+
+Submit ideas for future contests by emailing here.
+
+Contest ideas - web design, photo and link to website.
+
+Pictures taken - photo, description, artist.
+
+Painting - picture, description, artist.
+
+Free contest - Bad WFH set-up for chance to win a new desk.
+
+Best meme - wins a pack of toilet paper
+
+winpty vue.cmd create front-end
